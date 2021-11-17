@@ -1,0 +1,54 @@
+html {
+  font-size: 10px;
+  font-family: "Open Sans", sans-serif;
+  background-color: rgb(18, 34, 48);
+}
+
+body {
+  width: 600px;
+  margin: 0 auto;
+  background-color: rgb(146, 7, 104);
+  padding: 0 20px 20px 20px;
+  border: 5px solid black;
+}
+
+h1 {
+  font-size: 60px;
+  text-align: center;
+  margin: 0;
+  padding: 20px 0;
+  color: rgb(247, 53, 95);
+  text-shadow: 3px 3px 1px black;
+}
+
+li {
+  list-style: none;
+}
+
+p, li {
+  font-size: 16px;
+  line-height: 2;
+  letter-spacing: 1px;
+  color: rgb(216, 206, 206);
+  text-shadow: 1px 1px 1px black;
+}
+
+img {
+  display: block;
+  margin: 0 auto;
+}
+
+button {
+  display: block;
+  margin: 0 auto;
+}
+
+a {
+  text-shadow: none;
+}
+
+a:visited {
+  text-decoration: none;
+  color: rgb(255, 230, 0);
+  text-shadow: none;
+}
